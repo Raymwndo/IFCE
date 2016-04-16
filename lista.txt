@@ -1,0 +1,7 @@
+.
+..
+calendario.txt
+.git
+lista.txt
+README.md
+Teste1.txt
